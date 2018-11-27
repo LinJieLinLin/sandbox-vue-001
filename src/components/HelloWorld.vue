@@ -57,7 +57,7 @@ export default {
     name: 'HelloWorld',
     data() {
         return {
-            msg: 'sandbox app'
+            msg: 'sandbox app hello world'
         };
     },
     methods: {
